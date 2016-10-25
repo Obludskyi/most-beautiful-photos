@@ -1,0 +1,141 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\NodeJS\\node.exe',
+1 verbose cli   'D:\\NodeJS\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'babel-plugin-react-hot-loader/babel',
+1 verbose cli   '--save' ]
+2 info using npm@2.15.9
+3 info using node@v4.5.0
+4 verbose install initial load of C:\Users\Алексей\WebstormProjects\LearnReact2\package.json
+5 warn package.json Most_beautiful_photos@1.0.0 No repository field.
+6 warn package.json Most_beautiful_photos@1.0.0 No README data
+7 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\autoprefixer\package.json
+8 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-core\package.json
+9 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-eslint\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-loader\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-plugin-transform-runtime\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-polyfill\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-preset-es2015\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-preset-react\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-preset-stage-0\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\babel-runtime\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\css-loader\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\eslint\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\eslint-loader\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\eslint-plugin-react\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\express\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\extract-text-webpack-plugin\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\node-sass\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\npm-install-webpack-plugin\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\postcss-loader\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\precss\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\react\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\react-dom\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\react-hot-loader\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\react-redux\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\redux\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\redux-logger\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\redux-thunk\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\style-loader\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\webpack\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\webpack-dev-middleware\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\Алексей\WebstormProjects\LearnReact2\node_modules\webpack-hot-middleware\package.json
+38 verbose readDependencies loading dependencies from C:\Users\Алексей\WebstormProjects\LearnReact2\package.json
+39 silly cache add args [ 'babel-plugin-react-hot-loader/babel', null ]
+40 verbose cache add spec babel-plugin-react-hot-loader/babel
+41 silly cache add parsed spec Result {
+41 silly cache add   raw: 'babel-plugin-react-hot-loader/babel',
+41 silly cache add   scope: null,
+41 silly cache add   name: null,
+41 silly cache add   rawSpec: 'babel-plugin-react-hot-loader/babel',
+41 silly cache add   spec: 'github:babel-plugin-react-hot-loader/babel',
+41 silly cache add   type: 'hosted',
+41 silly cache add   hosted:
+41 silly cache add    { type: 'github',
+41 silly cache add      ssh: 'git@github.com:babel-plugin-react-hot-loader/babel.git',
+41 silly cache add      sshUrl: 'git+ssh://git@github.com/babel-plugin-react-hot-loader/babel.git',
+41 silly cache add      httpsUrl: 'git+https://github.com/babel-plugin-react-hot-loader/babel.git',
+41 silly cache add      gitUrl: 'git://github.com/babel-plugin-react-hot-loader/babel.git',
+41 silly cache add      shortcut: 'github:babel-plugin-react-hot-loader/babel',
+41 silly cache add      directUrl: 'https://raw.githubusercontent.com/babel-plugin-react-hot-loader/babel/master/package.json' } }
+42 verbose addRemoteGit caching babel-plugin-react-hot-loader/babel
+43 verbose addRemoteGit babel-plugin-react-hot-loader/babel is a repository hosted by github
+44 silly tryGitProto attempting to clone git://github.com/babel-plugin-react-hot-loader/babel.git
+45 silly tryClone cloning babel-plugin-react-hot-loader/babel via git://github.com/babel-plugin-react-hot-loader/babel.git
+46 verbose tryClone git-github-com-babel-plugin-react-hot-loader-babel-git-e0e36660 not in flight; caching
+47 verbose correctMkdir C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes correctMkdir not in flight; initializing
+48 warn addRemoteGit Error: not found: git
+48 warn addRemoteGit     at getNotFoundError (D:\NodeJS\node_modules\npm\node_modules\which\which.js:14:12)
+48 warn addRemoteGit     at F (D:\NodeJS\node_modules\npm\node_modules\which\which.js:69:19)
+48 warn addRemoteGit     at E (D:\NodeJS\node_modules\npm\node_modules\which\which.js:81:29)
+48 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\which.js:90:16
+48 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\node_modules\isexe\index.js:44:5
+48 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\node_modules\isexe\windows.js:29:5
+48 warn addRemoteGit     at FSReqWrap.oncomplete (fs.js:82:15)
+48 warn addRemoteGit  babel-plugin-react-hot-loader/babel resetting remote C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-e0e36660 because of error: { [Error: not found: git] code: 'ENOGIT' }
+49 info resetRemote resetting C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-e0e36660 for babel-plugin-react-hot-loader/babel
+50 silly gentlyRm C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-e0e36660 is being purged
+51 verbose gentlyRm don't care about contents; nuking C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-e0e36660
+52 silly vacuum-fs purging C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-e0e36660
+53 silly vacuum-fs quitting because other entries in C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes
+54 error git clone --template=C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror git://github.com/babel-plugin-react-hot-loader/babel.git C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-e0e36660: undefined
+54 error git clone --template=C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror git://github.com/babel-plugin-react-hot-loader/babel.git C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-e0e36660: undefined
+55 silly tryHTTPS attempting to clone git+https://github.com/babel-plugin-react-hot-loader/babel.git
+56 silly tryClone cloning babel-plugin-react-hot-loader/babel via git+https://github.com/babel-plugin-react-hot-loader/babel.git
+57 verbose tryClone https-github-com-babel-plugin-react-hot-loader-babel-git-eca924d4 not in flight; caching
+58 verbose correctMkdir C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes correctMkdir not in flight; initializing
+59 warn addRemoteGit Error: not found: git
+59 warn addRemoteGit     at getNotFoundError (D:\NodeJS\node_modules\npm\node_modules\which\which.js:14:12)
+59 warn addRemoteGit     at F (D:\NodeJS\node_modules\npm\node_modules\which\which.js:69:19)
+59 warn addRemoteGit     at E (D:\NodeJS\node_modules\npm\node_modules\which\which.js:81:29)
+59 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\which.js:90:16
+59 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\node_modules\isexe\index.js:44:5
+59 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\node_modules\isexe\windows.js:29:5
+59 warn addRemoteGit     at FSReqWrap.oncomplete (fs.js:82:15)
+59 warn addRemoteGit  babel-plugin-react-hot-loader/babel resetting remote C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\https-github-com-babel-plugin-react-hot-loader-babel-git-eca924d4 because of error: { [Error: not found: git] code: 'ENOGIT' }
+60 info resetRemote resetting C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\https-github-com-babel-plugin-react-hot-loader-babel-git-eca924d4 for babel-plugin-react-hot-loader/babel
+61 silly gentlyRm C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\https-github-com-babel-plugin-react-hot-loader-babel-git-eca924d4 is being purged
+62 verbose gentlyRm don't care about contents; nuking C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\https-github-com-babel-plugin-react-hot-loader-babel-git-eca924d4
+63 silly vacuum-fs purging C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\https-github-com-babel-plugin-react-hot-loader-babel-git-eca924d4
+64 silly vacuum-fs quitting because other entries in C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes
+65 error git clone --template=C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror https://github.com/babel-plugin-react-hot-loader/babel.git C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\https-github-com-babel-plugin-react-hot-loader-babel-git-eca924d4: undefined
+65 error git clone --template=C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror https://github.com/babel-plugin-react-hot-loader/babel.git C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\https-github-com-babel-plugin-react-hot-loader-babel-git-eca924d4: undefined
+66 silly trySSH attempting to clone git@github.com:babel-plugin-react-hot-loader/babel.git
+67 silly tryClone cloning babel-plugin-react-hot-loader/babel via git@github.com:babel-plugin-react-hot-loader/babel.git
+68 verbose tryClone git-github-com-babel-plugin-react-hot-loader-babel-git-9937e8ff not in flight; caching
+69 verbose correctMkdir C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes correctMkdir not in flight; initializing
+70 warn addRemoteGit Error: not found: git
+70 warn addRemoteGit     at getNotFoundError (D:\NodeJS\node_modules\npm\node_modules\which\which.js:14:12)
+70 warn addRemoteGit     at F (D:\NodeJS\node_modules\npm\node_modules\which\which.js:69:19)
+70 warn addRemoteGit     at E (D:\NodeJS\node_modules\npm\node_modules\which\which.js:81:29)
+70 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\which.js:90:16
+70 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\node_modules\isexe\index.js:44:5
+70 warn addRemoteGit     at D:\NodeJS\node_modules\npm\node_modules\which\node_modules\isexe\windows.js:29:5
+70 warn addRemoteGit     at FSReqWrap.oncomplete (fs.js:82:15)
+70 warn addRemoteGit  babel-plugin-react-hot-loader/babel resetting remote C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-9937e8ff because of error: { [Error: not found: git] code: 'ENOGIT' }
+71 info resetRemote resetting C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-9937e8ff for babel-plugin-react-hot-loader/babel
+72 silly gentlyRm C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-9937e8ff is being purged
+73 verbose gentlyRm don't care about contents; nuking C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-9937e8ff
+74 silly vacuum-fs purging C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-9937e8ff
+75 silly vacuum-fs quitting because other entries in C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes
+76 error git clone --template=C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror git@github.com:babel-plugin-react-hot-loader/babel.git C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-9937e8ff: undefined
+76 error git clone --template=C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror git@github.com:babel-plugin-react-hot-loader/babel.git C:\Users\Алексей\AppData\Roaming\npm-cache\_git-remotes\git-github-com-babel-plugin-react-hot-loader-babel-git-9937e8ff: undefined
+77 verbose stack Error: not found: git
+77 verbose stack     at getNotFoundError (D:\NodeJS\node_modules\npm\node_modules\which\which.js:14:12)
+77 verbose stack     at F (D:\NodeJS\node_modules\npm\node_modules\which\which.js:69:19)
+77 verbose stack     at E (D:\NodeJS\node_modules\npm\node_modules\which\which.js:81:29)
+77 verbose stack     at D:\NodeJS\node_modules\npm\node_modules\which\which.js:90:16
+77 verbose stack     at D:\NodeJS\node_modules\npm\node_modules\which\node_modules\isexe\index.js:44:5
+77 verbose stack     at D:\NodeJS\node_modules\npm\node_modules\which\node_modules\isexe\windows.js:29:5
+77 verbose stack     at FSReqWrap.oncomplete (fs.js:82:15)
+78 verbose cwd C:\Users\Алексей\WebstormProjects\LearnReact2
+79 error Windows_NT 10.0.10586
+80 error argv "D:\\NodeJS\\node.exe" "D:\\NodeJS\\node_modules\\npm\\bin\\npm-cli.js" "install" "babel-plugin-react-hot-loader/babel" "--save"
+81 error node v4.5.0
+82 error npm  v2.15.9
+83 error code ENOGIT
+84 error not found: git
+85 error Failed using git.
+85 error This is most likely not a problem with npm itself.
+85 error Please check if you have git installed and in your PATH.
+86 verbose exit [ 1, true ]
